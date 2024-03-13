@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 asgiref==3.4.1
 Django==3.2.25
 sqlparse==0.4.4
 tzdata==2024.1
+=======
+asgiref==3.4.1
+Django==3.2.25
+sqlparse==0.4.4
+tzdata==2024.1
+>>>>>>> origin/main
